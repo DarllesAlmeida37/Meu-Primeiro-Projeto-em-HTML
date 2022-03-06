@@ -1,0 +1,22 @@
+h1{
+    text-align-last: center;
+    font-size: 40px;
+    color: beige;
+}
+
+body{
+    background-image: linear-gradient(75deg, #263f3f, FireBrick) !important;
+}
+form{
+    background-color: rgba(0, 0, 0, 0.349) !important;
+    border-radius: 15px;
+    padding: 30px;
+    color: rgba(255, 250, 250, 0.808);
+}
+a{
+    color: rgba(34, 155, 255, 0.856);
+}
+    button{
+        background-color: rgba(153, 3, 3, 0.911) !important;
+        border: none !important;
+    }
