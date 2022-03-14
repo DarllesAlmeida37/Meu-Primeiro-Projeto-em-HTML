@@ -1,9 +1,23 @@
 *{
-    margin: 3px;
-    padding: 3px;
+    margin: 1px;
+    padding: 1px;
 }
 
 #titulo{
     font-family: arial;
     text-align: left ;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+.imagem{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
