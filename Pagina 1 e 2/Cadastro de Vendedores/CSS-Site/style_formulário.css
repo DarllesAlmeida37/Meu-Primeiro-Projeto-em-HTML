@@ -1,6 +1,10 @@
 *{
     margin: 1px;
-    padding: 1px;
+    padding-top: 12px;
+}
+
+body{
+    background-image: linear-gradient(75deg, #f1f4fae5, #c7ddfde7)
 }
 
 #titulo{
