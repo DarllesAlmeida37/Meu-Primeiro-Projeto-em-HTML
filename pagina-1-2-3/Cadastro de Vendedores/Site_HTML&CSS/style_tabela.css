@@ -18,6 +18,7 @@ body {
 .table-bordered {
     border: rgba(59, 83, 88, 0.123);
     background-color: rgba(255, 255, 255, 0.233);
+    color: rgba(18, 14, 37, 0.644);
 }
 .id {
     width: 30%;
